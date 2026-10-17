@@ -1,4 +1,4 @@
-# Алёна Егоровна — taro-privorot-gadanie.site
+# Алёна Егоровна — ekstarasens-taro-magiks.site
 
 Статический лендинг. Основа — сайт Зарины (`gadalka-medium-privorot.site`, шаблон `privorot-gadanie-taro.site`),
 переделанный визуально (фиолетовая палитра, другие шрифты, порядок блоков, мозаичная галерея) и по текстам.
@@ -6,7 +6,7 @@
 - Имя: `Алёна Егоровна`
 - Телефон: `+7 707 949 03 14`
 - WhatsApp: `77079490314`
-- Домен: `taro-privorot-gadanie.site`
+- Домен: `ekstarasens-taro-magiks.site`
 
 ## Фото
 

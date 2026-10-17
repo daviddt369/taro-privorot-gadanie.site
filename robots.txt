@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://taro-privorot-gadanie.site/sitemap.xml
+Sitemap: https://ekstarasens-taro-magiks.site/sitemap.xml
